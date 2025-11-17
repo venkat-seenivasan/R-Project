@@ -10,7 +10,7 @@ This project uses **Linear Regression** and **Random Forest** models and include
 ```
 📁 Thyroid-Cancer-Prediction
 │── thyroid_cancer_risk_data.csv
-│── prediction.R
+│── Mini.R
 │── README.md
 ```
 
